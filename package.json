@@ -1,0 +1,16 @@
+{
+  "name": "idena-voting-salt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Simon Takouridis",
+  "license": "MIT",
+  "dependencies": {
+    "js-sha3": "^0.8.0",
+    "secp256k1": "^5.0.0"
+  }
+}
